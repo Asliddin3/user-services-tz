@@ -1,0 +1,6 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:Asliddin3/api-gateway.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:Asliddin3/user-service.git
